@@ -42,3 +42,7 @@ __________________
 - [ ] [**click to see image - help**](https://media.discordapp.net/attachments/875421886069243965/1058724151118008420/image.png) 
 __________________
 ***u can use --url instead of -u***
+
+***Install***
+__________________
+Only use this tool for educational purposes 
